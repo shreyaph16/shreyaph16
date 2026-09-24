@@ -16,8 +16,7 @@ I build backend and agentic AI systems using FastAPI and LangGraph, and enjoy tr
 
 **Currently**
 
-🏆 Contributing to open source through **GirlScript Summer of Code 2026**
-💻 Researching Mechanistic Interpretability
+💻 Researching Mechanistic Interpretability and Quantum ML @ Cohere Open Science
  
 
 
