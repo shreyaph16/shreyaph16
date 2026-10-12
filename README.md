@@ -12,7 +12,7 @@ I enjoy innovating and solving real-world problems using code. I believe code gi
 
 **Tech stack**
 
-I build backend and agentic AI systems using FastAPI and LangGraph, and enjoy training models with machine learning and deep learning algorithms. I also have hands-on experience with Google Cloud Platform. I've led cross functional hackathons teams and been finalist for three hackathons. 
+I build backend and agentic AI systems using FastAPI and LangGraph, and enjoy training models with machine learning and deep learning algorithms. I also have hands-on experience with Google Cloud Platform. I've led cross functional hackathons teams and been finalist for four hackathons. 
 
 **Currently**
 
